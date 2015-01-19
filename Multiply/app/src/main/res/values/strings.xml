@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multiply</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_first_number">First Number:</string>
+    <string name="label_second_number">Second number:</string>
+    <string name="label_first_value">First value:</string>
+    <string name="label_second_value">Second value:</string>
+    <string name="text_first_value" />
+    <string name="text_second_value" />
+    <string name="button_multiply">Multiply</string>
+    <string name="label_title">Enter the values</string>
+    <string name="text_result" />
+
+</resources>
