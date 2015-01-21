@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stylizer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view_body">this is a example text, hello world, bye.</string>
+    <string name="label_color">Enter a color:</string>
+    <string name="check_box_bold">Bold</string>
+    <string name="check_box_italic">Italic</string>
+    <string name="check_box_normal">Normal</string>
+    <string name="radio_normal_font">Normal font</string>
+    <string name="radio_custom_font">Custom font</string>
+    <string name="button_stylize">Stylize</string>
+    <string name="edit_text_color">BLACK</string>
+    <string name="label_type_text">Type text</string>
+    <string name="label_type_font">Type Font</string>
+    <string name="error_text_view" />
+
+</resources>
